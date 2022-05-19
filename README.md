@@ -17,6 +17,6 @@ https://proosstore.github.io/Calcy/
 <Br>
 <h1>Link to Calcy - Compter Version
 <br>
-https://proosstore.github.io/Calcy/Calcy-pc.html</h1>
+https://proosstore.github.io/Calcy/calcy-pc.html</h1>
 <br>
 <img src="8703794_calculator_math_calculate_icon.png" height="100">
