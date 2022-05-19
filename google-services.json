@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "686716050868",
+    "project_id": "calcy-33ba3",
+    "storage_bucket": "calcy-33ba3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686716050868:android:5cc2b54144367d9e0aa6e1",
+        "android_client_info": {
+          "package_name": "proos.calcyandroid.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686716050868-v5cbq6kd9g8mgijkrdt3p2buuo6c1ntk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDREuHO3IIJePAUHsIspDdLzKq0jfgIaz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686716050868-v5cbq6kd9g8mgijkrdt3p2buuo6c1ntk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
