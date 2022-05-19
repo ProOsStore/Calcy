@@ -15,7 +15,7 @@ You can do that by simply clicking on fork button.
 https://proosstore.github.io/Calcy/
 </h1>
 <Br>
-<h1>Link to Calcy - Compter Version &#160;<img src="windows10.png" height="40">
+<h1>Link to Calcy - Compter Version &#160;&#160;&#160;&#160;<img src="windows10.png" height="40">
 <br>
 https://proosstore.github.io/Calcy/calcy-pc.html</h1>
 <br>
