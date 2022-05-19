@@ -21,4 +21,6 @@ https://proosstore.github.io/Calcy/calcy-pc.html</h1>
 <br>
 <H2>Ui inspired by - Apple <img src="apple.png" height="40">
 <br>
-<img src="171352_calculator_icon.png" height="100">
+<h1>Sponsored by</h1>
+<br>
+<li><img src="apple.png" height="40"><img src="android.png" height="40"><img src="windows10.png" height="40"></li>
