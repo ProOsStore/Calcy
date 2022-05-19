@@ -42,7 +42,7 @@ body {
 
 .result > h1 {
   text-align: right;
-  font-size: 100px;
+  font-size: 50px;
   font-weight: bold;
 }
 
@@ -58,11 +58,11 @@ span{
   border-top-right-radius: 1000px;
   border-bottom-left-radius: 1000px;
   border-bottom-right-radius: 1000px;
-  height: 200px;
-  width: 200px;
+  height: 100px;
+  width: 100px;
   color: #fff;
   font-weight: bold;
-  font-size: 100px;
+  font-size: 50px;
 }
 
 .operator {
@@ -72,15 +72,14 @@ span{
   border-top-right-radius: 1000px;
   border-bottom-left-radius: 1000px;
   border-bottom-right-radius: 1000px;
-  height: 200px;
-  width: 200px;
-  font-size: 100px;
+  width: 15%;
+  font-size: 50px;
   
   
 }
 
 .double {
-  width: 45%;
+  width: 15%;
   background: #303030;
   color: #fff;
   border-top-left-radius: 1000px;
@@ -88,7 +87,7 @@ span{
   border-bottom-left-radius: 1000px;
   border-bottom-right-radius: 1000px;
   justify-content: left;
-  font-size: 100px;
+  font-size: 50px;
   font-weight: bold;
   text-decoration: none;
   display: inline-block;
@@ -97,8 +96,7 @@ span{
 .grey {
   background-color: #aaa;
   color: #000;
-  height: 200px;
-  width: 200px;
+  width: 15%;
 }
 
 .clicked {
@@ -107,11 +105,26 @@ span{
 }
 .decimal {
   font-weight: bold;
-  font-size: 100px;
+  font-size: 50px;
   top: 2px;
+  width: 15%;
 }
 .divider {
   height: 1px;
   margin: 1.25em 0 0 1.25em;
   background-color: #CCC;
+}
+.zero {
+  width: 35%;
+  background: #303030;
+  color: #fff;
+  border-top-left-radius: 1000px;
+  border-top-right-radius: 1000px;
+  border-bottom-left-radius: 1000px;
+  border-bottom-right-radius: 1000px;
+  justify-content: left;
+  font-size: 50px;
+  font-weight: bold;
+  text-decoration: none;
+  display: inline-block;
 }
