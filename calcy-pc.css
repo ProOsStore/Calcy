@@ -1,0 +1,117 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:100);
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+html {
+  font-family: "Roboto";
+  font-weight: 100;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  margin-top: 1em;
+  font-size: 2em;
+  background-color: #000;
+  color: #fff;
+}
+
+.calculator {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  width: 1000px;
+  height: 700px;
+  border-top-left-radius: 10px;
+  background: #000;
+  bottom: 5px;
+}
+
+.result {
+  width: 100%;
+  background-color: #000;
+  min-height: 2em;
+  color: white;
+  font-weight: bold;
+}
+
+.result > h1 {
+  text-align: right;
+  font-size: 100px;
+  font-weight: bold;
+}
+
+span{
+  box-sizing: border-box;
+  text-align: center;
+  cursor: pointer;
+  background-color: #404040;
+  line-height: 2em;
+  border-top: 0.01em solid #333;
+  border-left: 0.01em solid #333;
+  border-top-left-radius: 1000px;
+  border-top-right-radius: 1000px;
+  border-bottom-left-radius: 1000px;
+  border-bottom-right-radius: 1000px;
+  height: 200px;
+  width: 200px;
+  color: #fff;
+  font-weight: bold;
+  font-size: 100px;
+}
+
+.operator {
+  background-color: #007AFF;
+  color: #fff;
+  border-top-left-radius: 1000px;
+  border-top-right-radius: 1000px;
+  border-bottom-left-radius: 1000px;
+  border-bottom-right-radius: 1000px;
+  height: 200px;
+  width: 200px;
+  font-size: 100px;
+  
+  
+}
+
+.double {
+  width: 45%;
+  background: #303030;
+  color: #fff;
+  border-top-left-radius: 1000px;
+  border-top-right-radius: 1000px;
+  border-bottom-left-radius: 1000px;
+  border-bottom-right-radius: 1000px;
+  justify-content: left;
+  font-size: 100px;
+  font-weight: bold;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.grey {
+  background-color: #aaa;
+  color: #000;
+  height: 200px;
+  width: 200px;
+}
+
+.clicked {
+  background-color: #fff;
+  color: #000;
+}
+.decimal {
+  font-weight: bold;
+  font-size: 100px;
+  top: 2px;
+}
+.divider {
+  height: 1px;
+  margin: 1.25em 0 0 1.25em;
+  background-color: #CCC;
+}
