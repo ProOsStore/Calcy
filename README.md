@@ -1,4 +1,4 @@
-<h1>Calcy <img src="8703794_calculator_math_calculate_icon.png" height="50">
+<h1>Calcy <img src="171352_calculator_icon.png" height="50">
  </h1>
 <H2>Calcy the Calculator.</h2>
 <h3>This Calculator is made by the Team
@@ -19,4 +19,4 @@ https://proosstore.github.io/Calcy/
 <br>
 https://proosstore.github.io/Calcy/calcy-pc.html</h1>
 <br>
-<img src="8703794_calculator_math_calculate_icon.png" height="100">
+<img src="171352_calculator_icon.png" height="100">
