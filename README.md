@@ -10,13 +10,15 @@ Generating answers quickly.</h3>
 improoved.<br>
 You can do that by simply clicking on fork button.
 </P>
-<h1>Link to Calcy - Android Version
+<h1>Link to Calcy - Android Version &#160;&#160;&#160;<img src="android.png" height="40">
 <br>
 https://proosstore.github.io/Calcy/
 </h1>
 <Br>
-<h1>Link to Calcy - Compter Version
+<h1>Link to Calcy - Compter Version &#160;<img src="windows10.png" height="40">
 <br>
 https://proosstore.github.io/Calcy/calcy-pc.html</h1>
+<br>
+<H2>Ui inspired by - Apple <img src="apple.png" height="40">
 <br>
 <img src="171352_calculator_icon.png" height="100">
