@@ -108,6 +108,7 @@ span{
   font-size: 50px;
   top: 2px;
   width: 15%;
+  color: #007AFF;
 }
 .divider {
   height: 1px;
@@ -116,7 +117,7 @@ span{
 }
 .zero {
   width: 35%;
-  background: #303030;
+  background: #FFF;
   color: #fff;
   border-top-left-radius: 1000px;
   border-top-right-radius: 1000px;
