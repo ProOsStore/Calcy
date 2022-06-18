@@ -28,4 +28,4 @@ https://proosstore.github.io/Calcy/calcy-pc.html</h1>
 <h2>Download Calcy</h2>
 <h4><img src="android.png" height="20"> Android - <a href="https://drive.google.com/file/d/1Pva40uefeZfazJZ27prYwkJp3la0tT0O/view?usp=sharing">Download</a></h4>
 <h4><img src="windows10.png" height="20"> Windows - <a href="calcy-winx.exe">Download</a>
-<h4><img src="apple.png" height="20"> Apple -</h4><p>Our package for Apple devices is not released as Apple dosen't support downloading apps from external source without Jailbreaking...<a href="calcy-apple.html">Read More.</a></p>
+<h4><img src="apple.png" height="20"> Apple -</h4><p>Our package for Apple devices is not released as Apple dosen't support downloading apps from external source without Jailbreaking...
